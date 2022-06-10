@@ -1,8 +1,12 @@
-____C :____
+# Runge-Kutta program
+
+
+## C :
 Pour utiliser la *version* **C**, vous pouvez tout simplement **compiler** le fichier `main.c`
 
+---
 
-___Python :___
+## Python :
 
 Avant de commencer, assurez-vous d'avoir au minimum une version de `Python 3.x`
 
