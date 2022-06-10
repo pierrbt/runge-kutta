@@ -40,11 +40,3 @@ plt.plot(ti,vitesse_anal,label="Analytique")
 plt.plot(ti,erreur,label="Erreur")
 plt.legend()
 plt.show()
-
-
-
-#connect to database
-import mysql.connector as mysql
-mysql.createConnection(host="localhost",user="root",passwd="",database="python")
-cursor = mysql.cursor()
-cursor.execute("SELECT * FROM table")

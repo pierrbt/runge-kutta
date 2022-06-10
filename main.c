@@ -66,14 +66,6 @@ int main()
     return 0;
 }
 
-//macron
-//#define N 100
-//#define dt (float)13/N
-//#define g 9.81
-//#define cd 0.25
-//#define m 68.1
-
-
 
 
 
